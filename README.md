@@ -1,3 +1,7 @@
+
+11211360 Dcit 202 assignment
+
+
 In Task 1:
  a function processArray that:
 - Takes an array of numbers as an argument.
